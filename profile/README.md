@@ -1,7 +1,11 @@
-# 📘 Khóa Học LTNC - HK252 
+# 📘 Khóa Học Hệ Điều Hành - HK252 (Lý Thuyêt + Bài Tập + CK + BTL + LAB)
 
 ## 🎯 Mục tiêu
-- 
+- Ôn CK
+- Code Process synchronization
+- Hiện thực Memory management
+- Docker tìm hiểu nguyên lí hoạt động và các câu lệnh trong đó
+- Tìm hiểu về nhân Linux
 
 --- 
 
@@ -9,8 +13,11 @@
 
 | Buổi  | Nội dung chính |
 |-----|----------------|
-| **BT1** | Lý thuyết + Bài tập trắc nghiệm OOP java  |
-
+| **BT1** | Code file .sh và tìm hiểu cấu trúc file trong nhân linux |
+| **BT2** | Ứng dụng synchronization bằng C++ tìm hiểu về thread và process  |
+| **BT3** | Triển khai bên dưới Memory management hoạt động |
+| **BT4** | Tìm hiểu docker và hiện thực dự án nhỏ về docker |
+| **BT5** | Hiện thực BTL HK252 |
 --- 
 
 ## 📖 Cách học Discord là nơi chính để học tập và làm việc:
